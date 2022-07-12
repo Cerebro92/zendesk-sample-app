@@ -1,0 +1,25 @@
+{
+  "name": "My Cat App",
+  "author": {
+    "name": "Zendesk",
+    "email": "support@zendesk.com",
+    "url": "https://support.zendesk.com"
+  },
+  "defaultLocale": "en",
+  "private": true,
+  "signedUrls": true,
+  "location": {
+    "support": {
+      "ticket_sidebar": {
+        "url": "https://neeraj.free.beeceptor.com/zendesk",
+        "flexible": true,
+        "size": {
+          "height": "375px"
+        }
+      }
+    }
+  },
+  "domainWhitelist": ["thecatapi.com", "api.thecatapi.com"],
+  "version": "1.0",
+  "frameworkVersion": "2.0"
+} 
